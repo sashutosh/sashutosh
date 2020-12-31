@@ -8,17 +8,16 @@
 
 Hi
 
-I am polyglot programmer started my career from writing code for embedded controllers and graduated to enterprise cloud native applications touching everything on the spectrum in between in the journey. 
+I am Ashutosh Solanki 
 
-Can easily slide from developer to technical lead to architect based on need of the product and team.
+In my day job I am
 
-Currently developing Java based microservices for on-premise and cloud based multi-tenant enterprise products. 
+- Developing Java based microservices for on-premise and cloud based multi-tenant enterprise product. 
+- Solve performance challenges, memory leaks 
+- Resolve critical customer issues and understand unmet needs.
+- Mentor/help colleagues
+- A newbie AI/ML enthusiast.
 
-Loves solving performance challenges, memory leaks and interacting with customer to understand unmet needs.
-
-A newbie AI/ML enthusiast.
-
-Sometimes I answer questions on [StackOverflow](https://stackoverflow.com/users/694143/asolanki)
 
 Strong believer in continuous learning and keeping up with technological trends, some of the online courses I completed. 
 
