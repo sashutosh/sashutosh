@@ -30,5 +30,6 @@ Strong believer in continuous learning and keeping up with technological trends,
 An avid reader, some of my recent favourite technical books are here.
 - [Modern Java in Action](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563/ref=sr_1_1?crid=1NT4THS40BYM2&dchild=1&keywords=modern+java+in+action&qid=1609400361&sprefix=Modern+Java+%2Caps%2C404&sr=8-1)
 
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 
 
