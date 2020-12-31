@@ -23,7 +23,7 @@ Sometimes I answer questions on [StackOverflow](https://stackoverflow.com/users/
 Strong believer in continuous learning and keeping up with technological trends, some of the online courses I completed. 
 
 - [Deep Learning Specialization from DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/64UC7K8E96ZK)
-- [Algorithms-1]
+- [Algorithms-1](https://www.coursera.org/learn/algorithms-part1)
 - [Concurrent Programming in Java](https://coursera.org/share/e8acb31fe73e15b11ca931c59933479b)
 - [Parallel Programming in Java](https://coursera.org/share/c8c564ab0963bcc530dbfed3f2b15fc8)
 
@@ -34,6 +34,7 @@ An avid reader, some of my recent favourite technical books are here.
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=for-the-badge&logo=apache-kafka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
