@@ -1,6 +1,10 @@
 <a href="https://www.linkedin.com/in/ashutosh-solanki-1562337/">
   <img align="left" alt="Ashutosh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://stackoverflow.com/users/694143/asolanki">
+<img align="left" alt="Ashutosh StackOverflow" width="22px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
+</a>
+<br />
 
 Hi
 
