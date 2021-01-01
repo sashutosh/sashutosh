@@ -1,10 +1,7 @@
 <a href="https://www.linkedin.com/in/ashutosh-solanki-1562337/">
   <img align="left" alt="Ashutosh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/694143/asolanki">
-<img align="left" alt="Ashutosh StackOverflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
-</a>
-<br />
+
 
 Hi
 
@@ -39,5 +36,8 @@ An avid reader, some of my recent favourite technical books are here.
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
+
+StackOverflow
+[![Ashutosh Solanki StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=694143&layout=compact&theme=dark)](https://stackoverflow.com/users/694143/asolanki)
 
 
