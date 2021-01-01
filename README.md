@@ -37,7 +37,7 @@ An avid reader, some of my recent favourite technical books are here.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-StackOverflow
+StackOverflow\
 [![Ashutosh Solanki StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=694143&layout=compact&theme=dark)](https://stackoverflow.com/users/694143/asolanki)
 
 
