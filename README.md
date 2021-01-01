@@ -4,8 +4,7 @@
 <br>
 
 Hi\
-I am Ashutosh Solanki \
-
+I am Ashutosh Solanki\
 In my day job I am
 
 - Working on Java stack to develop microservices for on-premise and cloud based multi-tenant enterprise product. 
@@ -37,6 +36,7 @@ My current tech stack\
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 StackOverflow\
+
 [![Ashutosh Solanki StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=694143&layout=compact&theme=dark)](https://stackoverflow.com/users/694143/asolanki)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sashutosh.visitor-badge)
