@@ -1,17 +1,16 @@
 <a href="https://www.linkedin.com/in/ashutosh-solanki-1562337/">
-  <img align="left" alt="Ashutosh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Ashutosh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
 
 Hi\
-I am Ashutosh Solanki\
-In my day job I am
+I am Ashutosh Solanki, In my day job I am
 
-- Working on Java stack to develop microservices for on-premise and cloud based multi-tenant enterprise product. 
-- Solve performance challenges, memory leaks 
-- Resolve critical customer issues and understand unmet needs.
-- Mentor/help colleagues
-- A newbie AI/ML enthusiast.
+- Working on Java stack to develop microservices for on-premise and cloud based multi-tenant enterprise product
+- Solve performance challenges, chase memory leaks 
+- Resolve critical customer issues and understand unmet needs
+- Mentor and help colleagues
+- A newbie AI/ML enthusiast
 
 Strong believer in continuous learning and keeping up with technological trends, some of the online courses I completed. 
 
@@ -35,7 +34,7 @@ My current tech stack\
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-StackOverflow\
+StackOverflow
 
 [![Ashutosh Solanki StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=694143&layout=compact&theme=dark)](https://stackoverflow.com/users/694143/asolanki)
 
