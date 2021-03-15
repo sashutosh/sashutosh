@@ -20,7 +20,7 @@ Strong believer in continuous learning and keeping up with technological trends,
 - [Parallel Programming in Java](https://coursera.org/share/c8c564ab0963bcc530dbfed3f2b15fc8)
 
 An avid reader, some of my recent favourite technical books are here.
-- [Functional program in Java](https://www.amazon.com/Functional-Programming-Java-functional-techniques/dp/1617292737/ref=sr_1_1?crid=1BAP1M12FIGC0&dchild=1&keywords=functional+programming+in+java&qid=1615815308&sprefix=Functional+progra%2Caps%2C370&sr=8-1)
+- [Functional programmin in Java](https://www.amazon.com/Functional-Programming-Java-functional-techniques/dp/1617292737/ref=sr_1_1?crid=1BAP1M12FIGC0&dchild=1&keywords=functional+programming+in+java&qid=1615815308&sprefix=Functional+progra%2Caps%2C370&sr=8-1)
 - [Modern Java in Action](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563/ref=sr_1_1?crid=1NT4THS40BYM2&dchild=1&keywords=modern+java+in+action&qid=1609400361&sprefix=Modern+Java+%2Caps%2C404&sr=8-1)
 
 My current tech stack\
